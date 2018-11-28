@@ -1,6 +1,6 @@
 # Personal Statement
 
-## Chenchen Zhao (赵晨辰)
+## Chenchen Zhao 赵晨辰
 
 - ### Undergraduate at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU)
 - ### [Department of Automation](http://automation.sjtu.edu.cn/), EE

@@ -1,0 +1,6 @@
+# Recent News
+
+- **[2018.12.08]** My manuscript ***[Scaling Up Scheduling in SnF OCS Networks - an Adjacency List Based Solution](https://www.sciencedirect.com/science/article/pii/S1573427718300511)*** has been published in Journal ***[Optical Switching and Networking](https://www.journals.elsevier.com/optical-switching-and-networking/)*** .
+- **[2018.12.05]** My manuscript ***[Scaling Up Scheduling in SnF OCS Networks - an Adjacency List Based Solution](https://www.sciencedirect.com/science/article/pii/S1573427718300511)*** has been accepted by Journal ***[Optical Switching and Networking](https://www.journals.elsevier.com/optical-switching-and-networking/)*** for publication.
+- **[2018.07.04]** My manuscript ***[Decomposed Request Scheduling in SnF OCS Networks](https://ieeexplore.ieee.org/document/8474006)*** has been published in ***[IEEE 20th International Conference on Transparent Optical Networks](http://icton2018.upb.ro/)*** .
+- **[2018.05.01]** My manuscript ***[Decomposed Request Scheduling in SnF OCS Networks](https://ieeexplore.ieee.org/document/8474006)*** has been accepted by ***[IEEE 20th International Conference on Transparent Optical Networks](http://icton2018.upb.ro/)*** for publication.

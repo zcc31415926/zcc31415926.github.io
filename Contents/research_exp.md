@@ -2,7 +2,7 @@
 
 - ### [Key Laboratory of CyberC3 Intelligent Vehicle](http://cyberc3.sjtu.edu.cn/) (2017.9- )
 
-    2D Object Detection and Orientation Estimation using Monocular Camera (graduate work, 2018.11- )
+    2D Object Detection and Orientation Estimation using Monocular Camera (graduate work, 2018.11-2019.6)
 
     [Learn more](cyberc3/obj_detection.md)
 

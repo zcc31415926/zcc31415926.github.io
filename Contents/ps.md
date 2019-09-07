@@ -4,5 +4,5 @@
 
 - ### Undergraduate at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU)
 - ### [Department of Automation](http://automation.sjtu.edu.cn/), EE
-- ### Admitted as master candidate by SJTU
-- ### Currently at [Key Laboratory of CyberC3 Intelligent Vehicle](http://cyberc3.sjtu.edu.cn/)
+- ### Currently working towards master degree in SJTU
+- ### Currently at [Laboratory of CyberC3 Intelligent Vehicle](http://cyberc3.sjtu.edu.cn/), Key Laboratory of System Control and Information Processing

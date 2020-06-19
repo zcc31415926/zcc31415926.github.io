@@ -16,8 +16,8 @@ adjacency matrices are replaced by adjacency lists for ***scaling up*** represen
 The replacement can also be regarded as a scaling up process of request scheduling in SnF.
 
 <div align="center">
-    <img src="./adjacency_matrix.png" height="300" alt="adjacency_matrix" />
-    <img src="./adjacency_list.png" height="300" alt="adjacency_list" />
+    <img src="adjacency_matrix.png" height="300" alt="adjacency_matrix" />
+    <img src="adjacency_list.png" height="300" alt="adjacency_list" />
     <center style="font-size:80%">Replacement of adjacency matrices by adjacency lists.</center>
 </div>
 
@@ -33,10 +33,12 @@ In the meantime, without weight consideration,
 change of request scheduling algorithm results in ***no different route planning***.
 
 <div align="center">
-    <img src="./time_density_bfs.png" height="220" alt="time with graph density" />
-    <img src="./time_layers_bfs.png" height="220" alt="time with number of layers in TS-MLG" />
-    <img src="./time_nodes_bfs.png" height="220" alt="time with number of nodes in the network" />
+    <img src="time_density_bfs.png" height="220" alt="time with graph density" />
+    <img src="time_layers_bfs.png" height="220" alt="time with number of layers in TS-MLG" />
+    <img src="time_nodes_bfs.png" height="220" alt="time with number of nodes in the network" />
     <center style="font-size:80%">Runtime comparisons between Dijkstra and BFS with different graph density, number of layers in TS-MLG, and number of nodes in the network.</center>
 </div>
 
-Paper: ***[Scaling Up Scheduling in SnF OCS Networks - an Adjacency List Based Solution](https://www.sciencedirect.com/science/article/pii/S1573427718300511)***
+Paper:
+
+***[Scaling Up Scheduling in SnF OCS Networks - an Adjacency List Based Solution](https://www.sciencedirect.com/science/article/pii/S1573427718300511)***

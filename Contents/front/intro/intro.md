@@ -15,6 +15,6 @@ The spatial path planning, storage node selection,
 and duration scheduling are combined and solved as a shortest-path computing problem.
 
 <div align="center">
-    <img src="./tsmlg.png" height="200" alt="TS-MLG" />
+    <img src="tsmlg.png" height="200" alt="TS-MLG" />
     <center style="font-size:80%">An exemplary TS-MLG.</center>
 </div>

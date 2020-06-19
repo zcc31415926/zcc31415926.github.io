@@ -27,7 +27,7 @@ In special occasions in which fixed routing (FR) or fixed alternate routing (FAR
 decoupling reduces the time complexity to O(1).
 
 <div align="center">
-    <img src="./decouple.png" height="250" alt="decoupling process" />
+    <img src="decouple.png" height="250" alt="decoupling process" />
     <center style="font-size:80%">The decoupling process.</center>
 </div>
 
@@ -44,13 +44,13 @@ In conclusion, by decoupling the SnF routing problem into spatial and temporal s
 it becomes ***much easier and less complex*** to solve.
 
 <div align="center">
-    <img src="./time_layers_decouple.png" height="220" alt="time with number of layers in TS-MLG" />
-    <img src="./time_nodes_decouple.png" height="220" alt="time with number of nodes in the network" />
+    <img src="time_layers_decouple.png" height="220" alt="time with number of layers in TS-MLG" />
+    <img src="time_nodes_decouple.png" height="220" alt="time with number of nodes in the network" />
     <center style="font-size:80%">Runtime comparisons between integrated and decoupled solutions with different number of layers in TS-MLG, and number of nodes in the network.</center>
 </div>
 <div align="center">
-    <img src="./blocking.png" height="220" alt="blocking probability" />
-    <img src="./utilization.png" height="220" alt="utilization rate" />
+    <img src="blocking.png" height="220" alt="blocking probability" />
+    <img src="utilization.png" height="220" alt="utilization rate" />
     <center style="font-size:80%">Comparisons between integrated and decoupled solutions on blocking probability and utilization rate with a fully-connected network.</center>
 </div>
 

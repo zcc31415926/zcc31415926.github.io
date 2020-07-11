@@ -1,4 +1,4 @@
-# [Chenchen Zhao 赵晨辰](https://zcc31415926.github.io/)
+# Chenchen Zhao 赵晨辰
 
 - ### [Personal Statement](Contents/ps.md)
 - ### [Education Experience](Contents/edu_exp.md)

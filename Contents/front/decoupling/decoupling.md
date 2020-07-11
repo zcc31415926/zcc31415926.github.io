@@ -65,3 +65,7 @@ Paper:
 ***[Decomposed Request Scheduling in SnF OCS Networks](https://ieeexplore.ieee.org/document/8474006)***
 
 ***[Decoupled Scheduling in Store-and-Forward OCS Networks](https://www.sciencedirect.com/science/article/pii/S1573427719300633)***
+
+[return](../../research_exp.md)
+
+[return to main](../../../index.md)

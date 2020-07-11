@@ -42,3 +42,7 @@ change of request scheduling algorithm results in ***no different route planning
 Paper:
 
 ***[Scaling Up Scheduling in SnF OCS Networks - an Adjacency List Based Solution](https://www.sciencedirect.com/science/article/pii/S1573427718300511)***
+
+[return](../../research_exp.md)
+
+[return to main](../../../index.md)

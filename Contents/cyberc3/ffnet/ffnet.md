@@ -49,3 +49,7 @@ and obtained [rank 9<sup>th</sup>](http://www.cvlibs.net/datasets/kitti/eval_obj
 Paper:
 
 ***[Monocular Pedestrian Orientation Estimation Based on Deep 2D-3D Feedforward](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304820?via%3Dihub)***
+
+[return](../../research_exp.md)
+
+[return to main](../../../index.md)

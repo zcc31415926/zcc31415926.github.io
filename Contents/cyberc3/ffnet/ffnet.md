@@ -2,7 +2,8 @@
 
 This work is applied to traffic recognition.
 The related model participated in the [KITTI](http://www.cvlibs.net/datasets/kitti/)
-[2D Object Detection Evaluation 2012 challenge](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d).
+[2D Object Detection Evaluation 2012
+challenge](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d).
 
 Existing 2D object orientation estimation models have much lower performance than 2D object detection models.
 An important reason is that orientation estimation requires more and deeper features
@@ -41,7 +42,8 @@ increases performance of the network.
 </div>
 
 The related model participated in the [KITTI](http://www.cvlibs.net/datasets/kitti/)
-[2D Object Detection Evaluation 2012 challenge](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
+[2D Object Detection Evaluation 2012
+challenge](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 and obtained [rank 9<sup>th</sup>](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=179771366d64fe59a16f210bca0fc30b4daca932).
 
 Paper:

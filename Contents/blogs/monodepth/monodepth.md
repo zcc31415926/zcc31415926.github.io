@@ -48,6 +48,8 @@ In scenes with objects, the projection of the left disparity map to the right vi
 
 The above three aspects serve as three components of criteria in *Monodepth* training.
 
+**References:** Godard, Clément, Oisin Mac Aodha, and Gabriel J. Brostow. "Unsupervised monocular depth estimation with left-right consistency." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
+
 [return](../../blogs.md)
 
 [return to main](../../../index.md)

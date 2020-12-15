@@ -1,22 +1,11 @@
-{% comment %}<head>{% endcomment %}
-    {% comment %}<meta charset="utf-8">{% endcomment %}
-    {% comment %}...{% endcomment %}
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
     {% comment %}{% unless page.no_latex %}{% endcomment %}
         {% comment %}{% include latex.html %}{% endcomment %}
     {% comment %}{% endunless %}{% endcomment %}
-{% comment %}</head>{% endcomment %}
+</head>
 
-{% comment %}<script type="text/x-mathjax-config">{% endcomment %}
-    {% comment %}MathJax.Hub.Config({{% endcomment %}
-        {% comment %}tex2jax: {{% endcomment %}
-        {% comment %}skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],{% endcomment %}
-        {% comment %}inlineMath: [['$','$']]{% endcomment %}
-        {% comment %}}{% endcomment %}
-    {% comment %}});{% endcomment %}
-{% comment %}</script>{% endcomment %}
-{% comment %}<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>{% endcomment %}
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>

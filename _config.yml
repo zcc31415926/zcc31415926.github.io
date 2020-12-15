@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 markdown: kramdown
-kramdown:
-  math_engine: katex
+#kramdown:
+  #math_engine: katex
   #math_engine: null

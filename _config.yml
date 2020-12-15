@@ -3,4 +3,3 @@ markdown: kramdown
 #kramdown:
   #math_engine: katex
   #math_engine: null
-#markdown: maruku

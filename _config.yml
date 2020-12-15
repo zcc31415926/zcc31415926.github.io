@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-markdown: kramdown
+#markdown: kramdown
 #markdown: maruku
-kramdown:
-  math_engine: katex
+#kramdown:
+  #math_engine: katex
   #math_engine: null

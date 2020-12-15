@@ -78,7 +78,7 @@ In conclusion, there are two main constraints (or assumptions) in the conversion
 - Mapping from the raw output to scores should be differentiable with second-order derivative not equal to 0.
 
 For constraint 2, it does not mean that higher-order derivative exists only without non-linear activation functions.
-However, with non-linear functions, higher-order derivative is still calculable.
+With non-linear functions, higher-order derivative is still calculable.
 Let several linear layers $L_1$, $L_2$, ... and ReLU layers $R_1$, $R_2$, ...
 make up the operations after the target conv layer.
 For each linear-activation pair $p=(L_i,R_i)$,

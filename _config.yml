@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-kramdown:
-  math_engine: null
-# markdown: maruku
+#kramdown:
+  #math_engine: null
+markdown: kramdown
+#markdown: maruku

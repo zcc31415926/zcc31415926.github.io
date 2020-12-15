@@ -70,6 +70,7 @@ in which $I^{mn}$ is the dot product of the filtered image gradient along the $m
 $$
 cornerness_{ij}=det(H_{ij})-k\cdot trace^2(H_{ij})
 $$
+
 $$
 H_{ij}=
 \begin{bmatrix}
@@ -136,6 +137,7 @@ x^1_n \\
 y^1_n \\
 \end{bmatrix}
 $$
+
 $$
 H=
 \begin{bmatrix}

@@ -29,7 +29,7 @@ Fast R-CNN (based on R-CNN):
 
 Faster R-CNN (based on Fast R-CNN):
 1. **selective search -> region proposal network (RPN)** for region proposal
-1. feature extraction and RPN share the weights of the CNN encoder
+1. feature extraction and RPN **share the weights** of the CNN encoder
 
 ### The YOLO series
 

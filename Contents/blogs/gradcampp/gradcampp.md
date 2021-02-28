@@ -92,7 +92,9 @@ $$
 $L_i'$ is auto-calculated, while $R_i^{(n-1)}$ is calculable given $R_i$.
 However, complexity of this occasion is much higher than that in the paper.
 
-**References:** Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader and Vineeth N Balasubramanian "Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks" proceedings of IEEE Winter Conf. on Applications of Computer Vision (WACV2018).
+**References:**
+
+Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader and Vineeth N Balasubramanian "Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks" proceedings of IEEE Winter Conf. on Applications of Computer Vision (WACV2018)
 
 [return](../../blogs.md)
 

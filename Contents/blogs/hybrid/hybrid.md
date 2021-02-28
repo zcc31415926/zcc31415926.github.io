@@ -179,7 +179,9 @@ The illustration images and the combined image is shown as follows:
 
 [code](stitching.m)
 
-**References:** Oliva, Aude, Antonio Torralba, and Philippe G. Schyns. "Hybrid images." ACM Transactions on Graphics (TOG) 25.3 (2006): 527-532.
+**References:**
+
+Oliva, Aude, Antonio Torralba, and Philippe G. Schyns. "Hybrid images." ACM Transactions on Graphics (TOG) 25.3 (2006): 527-532
 
 [return](../../blogs.md)
 

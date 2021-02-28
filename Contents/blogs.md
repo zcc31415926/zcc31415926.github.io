@@ -8,4 +8,6 @@
 
 - [Discussion: computation analysis of GradCAM++ (2020.12.15)](blogs/gradcampp/gradcampp.md)
 
+- [Discussion: Development of R-CNN and YOLO object detectors (2021.02.28)](blogs/object_detectors/object_detectors.md)
+
 [return](../index.md)

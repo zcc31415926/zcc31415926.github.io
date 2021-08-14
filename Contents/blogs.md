@@ -8,6 +8,8 @@
 
 - [Discussion: computation analysis of GradCAM++ (2020.12.15)](blogs/gradcampp/gradcampp.md)
 
-- [Discussion: Development of R-CNN and YOLO object detectors (2021.02.28)](blogs/object_detectors/object_detectors.md)
+- [Discussion: development of R-CNN and YOLO object detectors (2021.02.28)](blogs/object_detectors/object_detectors.md)
+
+- [Discussion: the Diffie-Hellman key-exchange algorithm (2021.08.14)](blogs/diffie_hellman/diffie_hellman.md)
 
 [return](../index.md)

@@ -10,7 +10,7 @@
     </script>
 </head>
 
-# Discussion: Development of R-CNN and YOLO object detectors
+# Discussion: Development of R-CNN and YOLO Object Detectors
 
 ### The R-CNN series
 

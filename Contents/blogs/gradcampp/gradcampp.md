@@ -12,6 +12,10 @@
 
 # Discussion: Computation Analysis of GradCAM++
 
+[return to main](../../../index.md)
+
+[return](../../blogs.md)
+
 According to the paper [Grad-CAM++](https://arxiv.org/abs/1710.11063) published in WACV 2018,
 the proposed method adopts a more rational pixel-wise map weight design,
 which serves as one of the key improvements from the original Grad-CAM method.

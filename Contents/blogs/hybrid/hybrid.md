@@ -12,6 +12,10 @@
 
 # Experiments: Hybrid Images, Harris Corner Detector and Image Stitching
 
+[return to main](../../../index.md)
+
+[return](../../blogs.md)
+
 These are experiments on hybrid images, Harris corner detector and image stitching
 (all typical computer vision applications).
 

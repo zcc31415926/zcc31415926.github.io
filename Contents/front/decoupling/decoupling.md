@@ -1,6 +1,10 @@
 # Research on Decoupling and its Impact on Performance and Complexity of Optical Circuit-Switched Network Models
 
-read **[improvements on data structures and scheduling algorithms](scaling_up.md)** first !
+[return to main](../../../index.md)
+
+[return](../../research_exp.md)
+
+Please read **[improvements on data structures and scheduling algorithms](scaling_up.md)** first!
 
 Choices of adjacency list and BFS have a huge defect: unqualified for weighted networks.
 Since almost all network topologies are weighted graphs,

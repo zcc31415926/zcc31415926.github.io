@@ -1,5 +1,9 @@
 # Introduction to Store-and-Forward (SnF) and the Time-Shifted MultiLayer Graph (TS-MLG) in Optical Circuit-Switched (OCS) Networks
 
+[return to main](../../../index.md)
+
+[return](../../research_exp.md)
+
 Store-and-Forward ([wiki](https://en.wikipedia.org/wiki/Store_and_forward))
 is a scheduling mechanism in network data transfer.
 Just as its name, ***SnF stores the data at intermediate network nodes

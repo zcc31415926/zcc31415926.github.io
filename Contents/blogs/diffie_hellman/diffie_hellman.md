@@ -12,6 +12,10 @@
 
 # Discussion: The Diffie-Hellman Key-Exchange Algorithm
 
+[return to main](../../../index.md)
+
+[return](../../blogs.md)
+
 The Diffie-Hellman algorithm is a key-exchange algorithm for safe communications in networks.
 The algorithm is as follows:
 1. the sender sets a prime number $p$, a base number $g$ and a random number $a$
@@ -53,3 +57,6 @@ $$
 
 Therefore, $s1 \equiv s2$.
 
+[return](../../blogs.md)
+
+[return to main](../../../index.md)

@@ -1,6 +1,10 @@
 # Improvements on Data Structures and Scheduling Algorithms of Optical Circuit-Switched Network Models
 
-read **[the introduction](intro.md)** first !
+[return to main](../../../index.md)
+
+[return](../../research_exp.md)
+
+Please read **[the introduction](intro.md)** first!
 
 TS-MLG is a model with ***sparse edges***, with reasons as follows:
 

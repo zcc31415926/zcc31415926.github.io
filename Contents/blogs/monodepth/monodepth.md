@@ -1,5 +1,9 @@
 # Paper: Unsupervised Monocular Depth Estimation with Left-Right Consistency
 
+[return to main](../../../index.md)
+
+[return](../../blogs.md)
+
 **From**: CVPR2017
 
 **Problem**:

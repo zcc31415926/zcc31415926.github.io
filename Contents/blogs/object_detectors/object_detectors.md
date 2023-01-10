@@ -12,6 +12,10 @@
 
 # Discussion: Development of R-CNN and YOLO Object Detectors
 
+[return to main](../../../index.md)
+
+[return](../../blogs.md)
+
 ### The R-CNN series
 
 Three models: R-CNN, Fast R-CNN and Faster R-CNN

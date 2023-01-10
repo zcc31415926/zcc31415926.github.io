@@ -8,7 +8,7 @@
 
     Stable physical adversarial attacks and defenses (master graduate thesis), 2019.09-2022.03
 
-    [Learn more]()
+    [Learn more](cyberc3/palpha/palpha.md)
 
     2D monocular object detection and orientation estimation (bachelor graduate thesis), 2018.11-2019.06
 

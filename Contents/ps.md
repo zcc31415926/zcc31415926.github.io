@@ -16,7 +16,7 @@
 
 Resume: [Chinese](./resume_chenchenzhao_chn.pdf), [English](./resume_chenchenzhao.pdf)
 
-[Google Scholar](https://scholar.google.com/citations?user=C26YBRgAAAAJ&hl=zh-CN&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=idQQ1t8AAAAJ&hl=zh-CN)
 
 <br />
 

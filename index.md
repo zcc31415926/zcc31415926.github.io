@@ -6,7 +6,7 @@ I am currently a first-year Ph.D. student at the CUHK REliable Computing ([CURE]
 
 Email: cczhaocharlie(at)outlook.com
 
-[Resume](./Contents/resume_chenchenzhao.pdf) &ensp; [Resume (Chinese)](./Contents/resume_chenchenzhao_chn.pdf) &ensp; [Google Scholar](https://scholar.google.com/citations?user=idQQ1t8AAAAJ&hl=zh-CN) &ensp; [GitHub](https://github.com/zcc31415926)
+[Resume](Contents/resume_chenchenzhao.pdf) &ensp; [Resume (Chinese)](Contents/resume_chenchenzhao_chn.pdf) &ensp; [Google Scholar](https://scholar.google.com/citations?user=idQQ1t8AAAAJ&hl=zh-CN) &ensp; [GitHub](https://github.com/zcc31415926)
 
 ## Recent News
 
@@ -40,11 +40,11 @@ Email: cczhaocharlie(at)outlook.com
 
 ## Blogs
 
-- **[2021.08.14]** [Discussion: the Diffie-Hellman key-exchange algorithm](blogs/diffie_hellman/diffie_hellman.md)
+- **[2021.08.14]** [Discussion: the Diffie-Hellman key-exchange algorithm](Contents/blogs/diffie_hellman/diffie_hellman.md)
 
-- **[2021.02.28]** [Discussion: development of R-CNN and YOLO object detectors](blogs/object_detectors/object_detectors.md)
+- **[2021.02.28]** [Discussion: development of R-CNN and YOLO object detectors](Contents/blogs/object_detectors/object_detectors.md)
 
-- **[2020.12.15]** [Discussion: computation analysis of GradCAM++](blogs/gradcampp/gradcampp.md)
+- **[2020.12.15]** [Discussion: computation analysis of GradCAM++](Contents/blogs/gradcampp/gradcampp.md)
 
 [More](Contents/blogs.md)
 

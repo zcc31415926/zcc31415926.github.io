@@ -4,7 +4,7 @@
 
 - [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://openaccess.thecvf.com/content/ICCV2023/html/Ju_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.html) (ICCV2023 oral)
 
-    Xuan Ju*, Ailing Zeng*, **Chenchen Zhao***, Jianan Wang, Lei Zhang, Qiang Xu
+    Xuan Ju\*, Ailing Zeng\*, **Chenchen Zhao**\*, Jianan Wang, Lei Zhang, Qiang Xu
 
     [code](https://github.com/IDEA-Research/HumanSD)
 

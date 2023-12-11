@@ -12,9 +12,9 @@
 
 # Experiments: Hybrid Images, Harris Corner Detector and Image Stitching
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
 These are experiments on hybrid images, Harris corner detector and image stitching
 (all typical computer vision applications).
@@ -187,6 +187,6 @@ The illustration images and the combined image is shown as follows:
 
 Oliva, Aude, Antonio Torralba, and Philippe G. Schyns. "Hybrid images." ACM Transactions on Graphics (TOG) 25.3 (2006): 527-532
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)

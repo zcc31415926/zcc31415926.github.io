@@ -12,9 +12,9 @@
 
 # Discussion: Computation Analysis of GradCAM++
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
 According to the paper [Grad-CAM++](https://arxiv.org/abs/1710.11063) published in WACV 2018,
 the proposed method adopts a more rational pixel-wise map weight design,
@@ -100,7 +100,7 @@ However, complexity of this occasion is much higher than that in the paper.
 
 Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader and Vineeth N Balasubramanian "Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks" proceedings of IEEE Winter Conf. on Applications of Computer Vision (WACV2018)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 

@@ -12,9 +12,9 @@
 
 # Discussion: Development of R-CNN and YOLO Object Detectors
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
 ### The R-CNN series
 
@@ -61,7 +61,7 @@ https://blog.csdn.net/weixin_43198141/article/details/90178512
 
 https://www.jianshu.com/p/f87be68977cb
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 

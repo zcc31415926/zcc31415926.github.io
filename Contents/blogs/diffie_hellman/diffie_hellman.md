@@ -12,9 +12,9 @@
 
 # Discussion: The Diffie-Hellman Key-Exchange Algorithm
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
 The Diffie-Hellman algorithm is a key-exchange algorithm for safe communications in networks.
 The algorithm is as follows:
@@ -57,6 +57,6 @@ $$
 
 Therefore, $s1 \equiv s2$.
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)

@@ -1,8 +1,8 @@
 # Paper: Unsupervised Monocular Depth Estimation with Left-Right Consistency
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
 **From**: CVPR2017
 
@@ -56,6 +56,6 @@ The above three aspects serve as three components of criteria in *Monodepth* tra
 
 Godard, Clément, Oisin Mac Aodha, and Gabriel J. Brostow. "Unsupervised monocular depth estimation with left-right consistency." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017
 
-[return](../../blogs.md)
+[Return](../../blogs.md)
 
-[return to main](../../../index.md)
+[Return to main](../../../index.md)

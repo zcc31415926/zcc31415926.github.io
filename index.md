@@ -82,7 +82,7 @@ Email: cczhaocharlie(at)outlook.com
 
     **Research direction**: Object detection and orientation estimation
 
-    **Grade**: 3.49/4.3; 86.4/100 (Core Curriculum)
+    **Grade**: 3.49/4.3; 86.4/100 (core curriculum)
 
 - 2010.09-2015.07, Junior & senior high @ Gifted class, Northeast YuCai School
 

@@ -1,14 +1,14 @@
 # Chenchen ZHAO 赵晨辰
 
-### About Me
+## About Me
 
 I am currently a first-year Ph.D. student at the CUHK REliable Computing ([CURE](https://cure-lab.github.io/)) Lab, the Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by Prof. Qiang XU. Before that, I received my master's and bachelor's degree at the Department of Automation, Shanghai Jiao Tong University, respectively supervised by Assoc Prof. Hao LI and Prof. Ming YANG. My current research interests span the fields of trustworthy AI systems and generative models.
 
 Email: cczhaocharlie(at)outlook.com
 
-[Resume](./resume_chenchenzhao.pdf) &ensp; [Resume (Chinese)](./resume_chenchenzhao_chn.pdf) &ensp; [Google Scholar](https://scholar.google.com/citations?user=idQQ1t8AAAAJ&hl=zh-CN) &ensp; [GitHub](https://github.com/zcc31415926)
+[Resume](./Contents/resume_chenchenzhao.pdf) &ensp; [Resume (Chinese)](./Contents/resume_chenchenzhao_chn.pdf) &ensp; [Google Scholar](https://scholar.google.com/citations?user=idQQ1t8AAAAJ&hl=zh-CN) &ensp; [GitHub](https://github.com/zcc31415926)
 
-### Recent News
+## Recent News
 
 - **[2023.07.14]** Paper *[HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://openaccess.thecvf.com/content/ICCV2023/html/Ju_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.html)* accepted to *ICCV 2023* **(oral)**.
 
@@ -16,7 +16,7 @@ Email: cczhaocharlie(at)outlook.com
 
 - **[2022.01.05]** Paper *[Condition-Invariant Physical Adversarial Attacks via Pixel-Wise Adversarial Learning](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_32)* won the **Best Paper Award** of *ICONIP 2021*.
 
-### Publications
+## Publications
 
 - [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://openaccess.thecvf.com/content/ICCV2023/html/Ju_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.html) (ICCV2023 oral)
 
@@ -38,7 +38,7 @@ Email: cczhaocharlie(at)outlook.com
 
 [More](Contents/publications.md)
 
-### Blogs
+## Blogs
 
 - **[2021.08.14]** [Discussion: the Diffie-Hellman key-exchange algorithm](blogs/diffie_hellman/diffie_hellman.md)
 
@@ -48,9 +48,9 @@ Email: cczhaocharlie(at)outlook.com
 
 [More](Contents/blogs.md)
 
-### Education & Research Experience
+## Education & Research Experience
 
-**Education**
+#### **Education**
 
 - 2023.08-, Ph.D. student @ Department of Computer Science and Engineering, The Chinese University of Hong Kong
 
@@ -86,11 +86,11 @@ Email: cczhaocharlie(at)outlook.com
 
 - 2010.09-2015.07, Junior & senior high @ Gifted class, Northeast YuCai School
 
-**Skills**
+#### **Skills**
 
 Linux, Python, Tensorflow & PyTorch, Vim
 
-**English**
+#### **English**
 
 - CET4: 595/710
 
